@@ -1,7 +1,7 @@
 *** Settings ***
 Documentation  Basic search test
 Library  SeleniumLibrary
-
+Library  SeleniumLibrary
 *** Variables ***
 ${browser}  chrome
 ${url}  https://www.ebay.com/
